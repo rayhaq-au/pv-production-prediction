@@ -1,0 +1,11 @@
+# Starting environment, not a frozen export of the original installation.
+# Original notebook metadata: Python 3.13.5; saved logs: TensorFlow 2.20.0.
+jupyterlab
+ipykernel
+numpy>=1.26
+pandas>=2.2,<3
+matplotlib
+seaborn
+scikit-learn
+tensorflow==2.20.0
+keras>=3,<4

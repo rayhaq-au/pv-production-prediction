@@ -1,0 +1,23 @@
+{
+  "observations": 8736,
+  "columns": 24,
+  "start_utc": "2021-01-01 00:00:00+00:00",
+  "end_utc": "2021-12-31 00:00:00+00:00",
+  "duplicate_timestamps": 0,
+  "missing_hourly_timestamps": [
+    "2021-02-12 14:00:00+00:00"
+  ],
+  "missing_target_values": 0,
+  "target_min_kWh": 0.0,
+  "target_max_kWh": 37.890619999991,
+  "full_period_persistence_mae_kWh": 1.8502031913919479,
+  "samples_from_2021_12_25": 145,
+  "notebook_cells": 47,
+  "python_cells_parsed": 23,
+  "one_based_installation_cells": [
+    38,
+    39,
+    40
+  ],
+  "training_rerun": false
+}

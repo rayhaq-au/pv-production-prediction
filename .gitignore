@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.h5
+*.keras
+logs/
+keras_nn_engineered_features_results.png
+.DS_Store
+Thumbs.db
